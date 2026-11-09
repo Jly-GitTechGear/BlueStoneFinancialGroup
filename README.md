@@ -1,11 +1,10 @@
 # BlueStone Financial Group
 
-<!--All the details here in BlueFinancia lGroup is fiction and only use for educational purpose -->
+<!--All the details here in BlueStone Financial Group is fiction and only use for educational purpose -->
 
 <p>
 Thomas graduated with a bachelor's degree in Computer Science from University of Utah and worked at Microsoft as a software engineer in 1985. 
-Twenty years later, he decided ran his own company from the ground up 
-Blue Financial Group is locating in Salt Lake City, Utah and it has been around 30 years since 199
+Twenty years later, he started his own company call BlueStone locating in Houston, TX. 
 </p>
 
 
